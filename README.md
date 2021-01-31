@@ -10,7 +10,7 @@ Your grade will depend on an exam (60%) and a final report (40%). Note that thes
 
 I can be contacted through email [tknapen@gmail.com](mailto:tknapen@gmail.com), but be sure to put ***[Brain Imaging]*** in the subject line to trigger my response as soon as possible.
 
-As I work both at the VU and [Spinoza Centre (KNAW)](http://www.spinozacentre.nl) I divide my time between the two. For you this means that I will hold office hours on ***Fridays (11:00 to 12:00)*** . These office hours will take place on Zoom: [Brain Imaging Zoom Meeting](Brain Imaging Zoom Meeting). The password for this meeting can be found on Canvas. 
+As I work both at the VU and [Spinoza Centre (KNAW)](http://www.spinozacentre.nl) I divide my time between the two. For you this means that I will hold office hours on ***Fridays (11:00 to 12:00)*** . These office hours will take place on Zoom: [Brain Imaging Zoom Meeting](https://us02web.zoom.us/j/86981797940). The password for this meeting can be found on Canvas. 
 
 ## Lectures
 
