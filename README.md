@@ -43,7 +43,7 @@ The Exam will be held in the VU standard proctored TestVision environment, proct
 
 ## Timeline of the Course
 
-| Week           | Content      | Material on YouTube    | Practicals | Literature  |
+| Week           | Content      | Material on YouTube    | Practicals | Literature for the Week  |
 | :------------- | :----------: | :-----------: | :-----------: | -----------: |
 |  1 | Intro: Python & Why fMRI   | Modules 1 - 5   | Python Intro | [discovery of fMRI](https://canvas.vu.nl/courses/53635/files/folder/literature/why_fMRI)
 |  2 | MRI Images & BOLD response   | Modules 6 - 10   | Imaging and BOLD | [origins of BOLD](https://canvas.vu.nl/courses/53635/files/folder/literature/GLM)
