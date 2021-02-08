@@ -27,6 +27,10 @@ The practicals will be given in the format of Jupyter notebooks, which you can r
 The first practical is not necessarily a practical, but is a Python refresher taken from the Neural Models course: 
 "Practice" Python Practical [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tknapen/NMCP_AI_2020/blob/main/practicals/python_tutorial.ipynb)
 
+### Actual Practicals
+
+***Week 1:*** *GLM Practical* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tknapen//brainimaging_VU/blob/main/notebooks/glm.ipynb)
+
 The general goal of these practicals is to teach you the best & most modern open science practices, as well as show you the strength of the python-based open source ecosystem. Our goal is to show you the way forward, if you are going to use fMRI or imaging yourself in your future research career. 
 
 ## Project
