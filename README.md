@@ -50,9 +50,9 @@ The Exam will be held in the VU standard proctored TestVision environment, proct
 | Week           | Content      | Material on YouTube    | Practicals | Literature for the Week  |
 | :------------- | :----------: | :-----------: | :-----------: | -----------: |
 |  1 | Intro: Python & Why fMRI   | Modules 1 - 5   | Python Intro | [fMRI basics](https://canvas.vu.nl/courses/53635/files/folder/literature/why_fMRI)
-|  2 | MRI Images & BOLD response   | Modules 6 - 10   | Imaging and BOLD | [origins of BOLD](https://canvas.vu.nl/courses/53635/files/folder/literature/GLM)
+|  2 | MRI Images & BOLD response   | Modules 6 - 10  & 15 - 18   | Imaging and BOLD | [origins of BOLD](https://canvas.vu.nl/courses/53635/files/folder/literature/GLM)
 |  3 | Experimental Design & Preprocessing   | Modules 11 - 14   | Preprocessing, BIDS & fmriprep | [BIDS & fmriprep](https://canvas.vu.nl/courses/53635/files/folder/literature/BIDS)
-|  4 | GLM: Practice and Limitations | Modules 15 - 22  | fitting GLMs | [GLM](https://canvas.vu.nl/courses/53635/files/folder/literature/GLM)
+|  4 | GLM: Practice and Limitations | Modules 19 - 22  | fitting GLMs | [GLM](https://canvas.vu.nl/courses/53635/files/folder/literature/GLM)
 |  5 | Encoding Models (& Pattern Analysis)   |  None: MVPA & Encoding model lecture on Canvas  | Pattern analysis | [MVPA & Encoding models](https://canvas.vu.nl/courses/53635/files/folder/literature/Patterns)
 |  6 | Project (& Brain Connectivity)  | Elective: Modules 23-29  | 
 |  7 | Project   |   |  | 
