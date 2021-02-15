@@ -31,7 +31,13 @@ The first practical is not necessarily a practical, but is a Python refresher ta
 
 ***Week 1:*** *GLM Practical* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tknapen//brainimaging_VU/blob/main/notebooks/glm.ipynb)
 
+***Week 2:*** *Preprocessing Practical* 
+This tutorial is all about interpreting the outputs of preprocessing steps, so this tutorial will guide you through [preprocessing](notebooks/preprocessing.md).
+
+
 The general goal of these practicals is to teach you the best & most modern open science practices, as well as show you the strength of the python-based open source ecosystem. Our goal is to show you the way forward, if you are going to use fMRI or imaging yourself in your future research career. 
+
+
 
 ## Project
 
