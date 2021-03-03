@@ -40,7 +40,6 @@ This tutorial is all about how we use the preprocessing information to clean our
 The general goal of these practicals is to teach you the best & most modern open science practices, as well as show you the strength of the python-based open source ecosystem. Our goal is to show you the way forward, if you are going to use fMRI or imaging yourself in your future research career. 
 
 
-
 ## Project
 
 To give you a taste of the practice of fMRI research, we're preparing multiple project outlines, in which you team up with 2 of your fellow students to analyse an fMRI dataset together. We hope this team-effort will provide a lockdown surrogate for actual interaction. 
@@ -48,6 +47,10 @@ To give you a taste of the practice of fMRI research, we're preparing multiple p
 The different projects each focus on a specific type of analysis and experiment, and you will be able to submit your preference for the exact project. You will jointly produce a single Jupyter notebook report, in which you write an introduction about the experiment and the dataset, perform (a set of different types of) analysis, and interpret the results. We will provide you with a couple of literature references as underlying theory, but you will have to search for your own literature to supplement the provided information. 
 
 Grading: After the deadline, you will receive 3 project reports to grade based on a predefined rubric, which we will upload on Canvas. Of course, we will also grade the reports ourselves - using the same rubric. Please also consult this Rubric if you're wondering what is important to get right. 
+
+The notebook that you need to start work on for the project is in this repository:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tknapen//brainimaging_VU/blob/main/notebooks/backbone_projects.ipynb).
+
 
 ## Exam
 
