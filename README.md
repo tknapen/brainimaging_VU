@@ -6,6 +6,14 @@ You can find the schedule for the course on [rooster.vu.nl](http://rooster.vu.nl
 
 Your grade will depend on an exam (60%) and a final report (40%). Note that these percentages and the course content have been upgraded to be lockdown-proof, so they will be different from the original course summary on vunet. The exam materials are the first part of the award-winning lecture series by Lunquist & Wager on [YouTube](https://youtube.com/playlist?list=PLfXA4opIOVrGHncHRxI3Qa5GeCSudwmxM), as well as the literature discussed in the lectures and practicals. To practice fMRI analysis, you will work through explanatory Jupyter notebooks for the practicals during the first half of the course. During the final half of the course, you will analyze an fMRI dataset yourself and write a report on it in the Jupyter notebook format. 
 
+### What is the course material exactly, and what isn't?
+
+What do I expect you to know? An example exam from a previous year (2019's re-exam) has been uploaded to canvas (you can find it under "exam preparation"). Beware: since the course content has changed, some of the questions have been crossed out: they aren't part of the exam materials for this year. There will also be open questions in this year's exam; these will be about the projects you're doing and are bonus materials.
+
+**Everything discussed in my own lectures and in the YouTube lectures listed in the materials table below is exam material, as well as everything in the practicals, with the following caveats: I will not ask you to reproduce equations, will not quiz you on linear algebra, and I will not ask detailed statistical questions.**
+
+What is important for the exam? Of course, my own lectures and the practicals give you the most important information as these are pre-screened by yours truly. Anything that is mentioned both in my lectures and in the YouTube lectures, or in the practicals and in the YouTube lectures, is important! Sometimes the YouTube lectures, the teachers use jargon. If I don't explain these terms in my lectures or the practicals, these terms (things like 'spin history', 'restricted maximum likelihood methods', etc) are not part of the exam materials. 
+
 ## Contact & Office hours
 
 I can be contacted through email [tknapen@gmail.com](mailto:tknapen@gmail.com), but be sure to put ***[Brain Imaging]*** in the subject line to trigger my response as soon as possible.
@@ -51,7 +59,6 @@ Grading: After the deadline, you will receive 3 project reports to grade based o
 The notebook that you need to start work on for the project is in this repository:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tknapen//brainimaging_VU/blob/main/notebooks/backbone_projects.ipynb).
 
-
 ## Exam
 
 The Exam will be held in the VU standard proctored TestVision environment, proctorIO. It will consist of a mix of multiple choice and open-ended questions. 
@@ -65,6 +72,8 @@ The Exam will be held in the VU standard proctored TestVision environment, proct
 |  3 | Experimental Design & Preprocessing   | Modules 11 - 14   | Preprocessing, BIDS & fmriprep | [BIDS & fmriprep](https://canvas.vu.nl/courses/53635/files/folder/literature/BIDS)
 |  4 | GLM: Practice and Limitations | Modules 19 - 22  | fitting GLMs | [GLM](https://canvas.vu.nl/courses/53635/files/folder/literature/GLM)
 |  5 | Encoding Models (& Pattern Analysis)   |  None: MVPA & Encoding model lecture on Canvas  | Pattern analysis | [MVPA & Encoding models](https://canvas.vu.nl/courses/53635/files/folder/literature/Patterns)
-|  6 | Project (& Brain Connectivity)  | Elective: Modules 23-29  | 
-|  7 | Project   |   |  | 
-|  8 | Project & Exam   |   | | 
+|  6 | Project (& Brain Connectivity)  | Elective if you're interested in group analysis: Modules 23-29  | Project | Specific literature for projects
+|  7 | Project   |  N/A | Project | 
+|  8 | Project & Exam   |  N/A  | Grade Project | 
+
+
